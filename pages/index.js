@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Essa é uma frase que te empákita! </h1>
+    return <h1>Essa é uma frase que te empákita! Sentiu!? </h1>
 }
 
 export default Home;
