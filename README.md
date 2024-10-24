@@ -1,2 +1,3 @@
 # clone-tabnews
-projeto do curso.dev 
+
+projeto do curso.dev
